@@ -1,0 +1,102 @@
+.rectangle {
+	padding: 40px 40px 49px 40px;
+}
+
+.sign-in {
+	height: 33px;
+	color: #ff5252;
+	font-family: Raleway;
+	font-size: 28px;
+	font-weight: bold;
+	line-height: 33px;
+}
+
+.enter-your-details-b {
+	height: 22px;
+	color: #ccd4dc;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 22px;
+	margin-top: 16px;
+}
+.email-address {
+	height: 22px;
+	color: #ccd4dc;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 22px;
+	margin-top: 56px;
+}
+.signin-text-field {
+	height: 56px;
+	width: 350px;
+	border-radius: 10px;
+	margin-top: 8px;
+}
+.type-your-email-here {
+	height: 19px;
+	width: 158px;
+	color: #ccd4dc;
+	font-family: Raleway;
+	font-size: 16px;
+	line-height: 19px;
+}
+.pass {
+	margin-top: 34px;
+	display: flex;
+	flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.password {
+	height: 22px;
+	width: 69px;
+	color: #ccd4dc;
+	font-family: Raleway;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 22px;
+}
+.type-your-password-h {
+	height: 19px;
+	width: 190px;
+	color: #ccd4dc;
+	font-family: Raleway;
+	font-size: 16px;
+	line-height: 19px;
+}
+
+.forgot-your-password {
+	height: 22px;
+	width: 139px;
+	color: #ccd4dc;
+	font-family: Raleway;
+	font-size: 13px;
+	line-height: 22px;
+	text-align: right;
+
+}
+.icon-show-password {
+	height: 24px;
+	width: 24px;
+}
+.button-fill {
+	height: 48px;
+	width: 175px;
+	border-radius: 24px;
+	background-color: #ff5252;
+	margin-top: 32px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.rectangle-button {
+	color: #ffffff;
+	font-family: Raleway;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 19px;
+	text-align: center;
+}
